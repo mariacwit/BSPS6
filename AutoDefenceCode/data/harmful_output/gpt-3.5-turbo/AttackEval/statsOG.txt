@@ -1,0 +1,45 @@
+DATA split
+positive = 200
+negative = 190
+
+1 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 173
+❌ False Positives (FP): 5
+✅ True Negatives (TN): 185
+❌ False Negatives (FN): 27
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.97
+📈 Recall: 0.86
+🏅 F1 Score: 0.92
+🏅 P4 Score: 0.92
+
+2 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 193
+❌ False Positives (FP): 36
+✅ True Negatives (TN): 154
+❌ False Negatives (FN): 7
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.84
+📈 Recall: 0.96
+🏅 F1 Score: 0.90
+🏅 P4 Score: 0.89
+
+3 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 198
+❌ False Positives (FP): 41
+✅ True Negatives (TN): 149
+❌ False Negatives (FN): 2
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.83
+📈 Recall: 0.99
+🏅 F1 Score: 0.90
+🏅 P4 Score: 0.89

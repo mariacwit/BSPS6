@@ -1,0 +1,25 @@
+--2025-03-22 11:24:33--  https://huggingface.co/TheBloke/Llama-2-13B-Chat-GGUF/resolve/main/llama-2-13b-chat.Q8_0.gguf
+Resolving huggingface.co (huggingface.co)... 3.160.150.2, 3.160.150.7, 3.160.150.50, ...
+Connecting to huggingface.co (huggingface.co)|3.160.150.2|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: /TheBloke/Llama-2-13B-chat-GGUF/resolve/main/llama-2-13b-chat.Q8_0.gguf [following]
+--2025-03-22 11:24:33--  https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF/resolve/main/llama-2-13b-chat.Q8_0.gguf
+Reusing existing connection to huggingface.co:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn-lfs.hf.co/repos/8d/b1/8db1d1f73b4caa58e947ccbfe2fb27ac5e495c2ad8457ad299d15987aee3b520/9f4d06112114dd1b48023305578ad52b690d3aee42181631a2bddbe856f75ae6?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27llama-2-13b-chat.Q8_0.gguf%3B+filename%3D%22llama-2-13b-chat.Q8_0.gguf%22%3B&Expires=1742642673&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MjY0MjY3M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy84ZC9iMS84ZGIxZDFmNzNiNGNhYTU4ZTk0N2NjYmZlMmZiMjdhYzVlNDk1YzJhZDg0NTdhZDI5OWQxNTk4N2FlZTNiNTIwLzlmNGQwNjExMjExNGRkMWI0ODAyMzMwNTU3OGFkNTJiNjkwZDNhZWU0MjE4MTYzMWEyYmRkYmU4NTZmNzVhZTY%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=arO31JTWYwgigUbnaCogkXO8rP7HjfJKbbELEnFtf3a8O4M2gVYKFqBKZ3Q%7ENB1omQzVxH%7EtB6TJ4qmk9XTs2VCn84WuonkJX02ib7A9yJHmgCVFg72LqaqY4EULukmmStS8qAmA%7EPMYveJrM1o%7EO3MgE4pqxeE8UQiCVd7%7E3N9pNX0ZthCRZbivc-gaNV3MiUc15Uo2ft-apIVT9hKpWS8Lx%7E1MtYvWj86zprWIKZZmk9gNLNuE4QzcpcN59b-HXdqs6%7EPonj5FWnR6SZfOvDl0eV2juijJ6bmIfItBAQf1xqiWMzRV4ohcsTEA62sSdUJbVJkBtQ2LwYKrgeurOA__&Key-Pair-Id=K3RPWS32NSSJCE [following]
+--2025-03-22 11:24:33--  https://cdn-lfs.hf.co/repos/8d/b1/8db1d1f73b4caa58e947ccbfe2fb27ac5e495c2ad8457ad299d15987aee3b520/9f4d06112114dd1b48023305578ad52b690d3aee42181631a2bddbe856f75ae6?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27llama-2-13b-chat.Q8_0.gguf%3B+filename%3D%22llama-2-13b-chat.Q8_0.gguf%22%3B&Expires=1742642673&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MjY0MjY3M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy84ZC9iMS84ZGIxZDFmNzNiNGNhYTU4ZTk0N2NjYmZlMmZiMjdhYzVlNDk1YzJhZDg0NTdhZDI5OWQxNTk4N2FlZTNiNTIwLzlmNGQwNjExMjExNGRkMWI0ODAyMzMwNTU3OGFkNTJiNjkwZDNhZWU0MjE4MTYzMWEyYmRkYmU4NTZmNzVhZTY%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=arO31JTWYwgigUbnaCogkXO8rP7HjfJKbbELEnFtf3a8O4M2gVYKFqBKZ3Q%7ENB1omQzVxH%7EtB6TJ4qmk9XTs2VCn84WuonkJX02ib7A9yJHmgCVFg72LqaqY4EULukmmStS8qAmA%7EPMYveJrM1o%7EO3MgE4pqxeE8UQiCVd7%7E3N9pNX0ZthCRZbivc-gaNV3MiUc15Uo2ft-apIVT9hKpWS8Lx%7E1MtYvWj86zprWIKZZmk9gNLNuE4QzcpcN59b-HXdqs6%7EPonj5FWnR6SZfOvDl0eV2juijJ6bmIfItBAQf1xqiWMzRV4ohcsTEA62sSdUJbVJkBtQ2LwYKrgeurOA__&Key-Pair-Id=K3RPWS32NSSJCE
+Resolving cdn-lfs.hf.co (cdn-lfs.hf.co)... 18.172.112.14, 18.172.112.124, 18.172.112.90, ...
+Connecting to cdn-lfs.hf.co (cdn-lfs.hf.co)|18.172.112.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13831319424 (13G) [binary/octet-stream]
+Saving to: ‘llama-2-13b-chat.Q8_0.gguf.1’
+
+llama-2-13b-chat.Q8_0.gguf.1    2%[>                                                 ] 326.06M  --.-KB/s    eta 45h 20mllama-2-13b-chat.Q8_0.gguf.1    2%[>                                                 ] 326.06M  --.-KB/s    in 68m 57s 
+
+2025-03-22 14:06:25 (80.7 KB/s) - Read error at byte 341901920/13831319424 (Connection timed out). Retrying.
+
+--2025-03-22 14:06:26--  (try: 2)  https://cdn-lfs.hf.co/repos/8d/b1/8db1d1f73b4caa58e947ccbfe2fb27ac5e495c2ad8457ad299d15987aee3b520/9f4d06112114dd1b48023305578ad52b690d3aee42181631a2bddbe856f75ae6?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27llama-2-13b-chat.Q8_0.gguf%3B+filename%3D%22llama-2-13b-chat.Q8_0.gguf%22%3B&Expires=1742642673&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MjY0MjY3M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy84ZC9iMS84ZGIxZDFmNzNiNGNhYTU4ZTk0N2NjYmZlMmZiMjdhYzVlNDk1YzJhZDg0NTdhZDI5OWQxNTk4N2FlZTNiNTIwLzlmNGQwNjExMjExNGRkMWI0ODAyMzMwNTU3OGFkNTJiNjkwZDNhZWU0MjE4MTYzMWEyYmRkYmU4NTZmNzVhZTY%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qIn1dfQ__&Signature=arO31JTWYwgigUbnaCogkXO8rP7HjfJKbbELEnFtf3a8O4M2gVYKFqBKZ3Q%7ENB1omQzVxH%7EtB6TJ4qmk9XTs2VCn84WuonkJX02ib7A9yJHmgCVFg72LqaqY4EULukmmStS8qAmA%7EPMYveJrM1o%7EO3MgE4pqxeE8UQiCVd7%7E3N9pNX0ZthCRZbivc-gaNV3MiUc15Uo2ft-apIVT9hKpWS8Lx%7E1MtYvWj86zprWIKZZmk9gNLNuE4QzcpcN59b-HXdqs6%7EPonj5FWnR6SZfOvDl0eV2juijJ6bmIfItBAQf1xqiWMzRV4ohcsTEA62sSdUJbVJkBtQ2LwYKrgeurOA__&Key-Pair-Id=K3RPWS32NSSJCE
+Connecting to cdn-lfs.hf.co (cdn-lfs.hf.co)|18.172.112.14|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-03-22 14:06:26 ERROR 403: Forbidden.
+

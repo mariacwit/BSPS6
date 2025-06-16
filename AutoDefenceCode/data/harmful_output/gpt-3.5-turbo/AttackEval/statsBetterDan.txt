@@ -1,0 +1,45 @@
+DATA split
+positive = 274
+negative = 116
+
+1 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 74
+❌ False Positives (FP): 5
+✅ True Negatives (TN): 111
+❌ False Negatives (FN): 200
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.94
+📈 Recall: 0.27
+🏅 F1 Score: 0.42
+🏅 P4 Score: 0.46
+
+2 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 248 --> actual no valid successful attack
+❌ False Positives (FP): 29
+✅ True Negatives (TN): 87 --> succesful attack which is defended against
+❌ False Negatives (FN): 26
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.90
+📈 Recall: 0.91
+🏅 F1 Score: 0.90
+🏅 P4 Score: 0.82
+
+3 agent
+
+🔍 Comparison Results:
+✅ True Positives (TP): 271
+❌ False Positives (FP): 31
+✅ True Negatives (TN): 85
+❌ False Negatives (FN): 3
+⚠️  Missing Predictions: 0
+
+📊 Precision: 0.90
+📈 Recall: 0.99
+🏅 F1 Score: 0.94
+🏅 P4 Score: 0.88
